@@ -1,6 +1,11 @@
 fastapi
 uvicorn
-python-multipart
+sqlalchemy
+pymysql
+python-dotenv
+boto3
 pillow
-opencv-python
+python-multipart
 PyMuPDF
+opencv-python
+numpy
